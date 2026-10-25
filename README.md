@@ -8,7 +8,6 @@ This repository contains MATLAB programs and Simulink models developed for acade
 
 - MATLAB
 - Simulink
-- Communications-related Simulink blocks and visualization tools
 
 ## Experiments
 
